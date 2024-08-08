@@ -1,0 +1,1 @@
+Patient with Id 2593 deleted Successfully!

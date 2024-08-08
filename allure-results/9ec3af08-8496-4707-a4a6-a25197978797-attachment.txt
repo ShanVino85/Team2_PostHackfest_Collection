@@ -1,0 +1,1 @@
+{"token":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJmcmFnM0BnbWFpbC5jb20iLCJpYXQiOjE3MjMxMzI1MTcsImV4cCI6MTcyMzE2MTMxN30.OVxCt6is40YuHPUGzZufgmh4_1Guguxsx5V5hjFzX84J_0U4IwdmJ6fVKXMqRZ_HOlf3jdXlRJT5qlxM2g3D9g","type":"Bearer ","userId":14105,"loginUserEmail":"frag3@gmail.com","roles":["ROLE_PATIENT"]}

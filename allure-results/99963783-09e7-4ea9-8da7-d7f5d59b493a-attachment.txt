@@ -1,0 +1,1 @@
+{"token":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJpY2VjcmVhbUBnbWFpbC5jb20iLCJpYXQiOjE3MjMwNjk4MjMsImV4cCI6MTcyMzA5ODYyM30.rf5N5srpaUs4f0eYSYbsGaO2Pw8CvIxskt_qn7YkcBnshVEtTiPKaNpzrX_RWf0-4Vw8xxEj1XiCOnyauR2MZQ","type":"Bearer ","userId":12683,"loginUserEmail":"icecream@gmail.com","roles":["ROLE_DIETICIAN"]}

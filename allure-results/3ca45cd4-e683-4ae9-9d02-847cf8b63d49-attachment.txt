@@ -1,0 +1,1 @@
+{"id":4363,"loginPassword":"Magic98","Firstname":"Teamtwo","Lastname":"Posthackfest","ContactNumber":"6782289301","DateOfBirth":"1982-05-01T18:14:08.570+00:00","Email":"ppost_hhackDiet22@gmail.com","HospitalName":"Christ","HospitalStreet":"Parmer st","HospitalCity":"Teamtwo","HospitalPincode":"787177","Education":"Health and Science"}

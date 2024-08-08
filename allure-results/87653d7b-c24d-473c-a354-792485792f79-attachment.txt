@@ -1,0 +1,1 @@
+[{"morbidityId":2,"morbidityTestId":"DIA_AG","morbidityNameRegex":"(?i)(.*)average(.*)glucose(.*)","morbidityTestName":"Average Glucose","morbidityTestUnit":"mg/dL","morbidityMarkerMinVal":121.0,"morbidityMarkerMaxVal":150.0}]

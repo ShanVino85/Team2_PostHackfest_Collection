@@ -1,0 +1,1 @@
+{"id":4763,"loginPassword":"Skill98","Firstname":"Teamtwo","Lastname":"Posthackfest","ContactNumber":"9904591234","DateOfBirth":"2001-11-21T18:14:08.570+00:00","Email":"rack5@gmail.com","HospitalName":"Augustus","HospitalStreet":"Carter's Ave","HospitalCity":"Teamtwo","HospitalPincode":"345177","Education":"Health and Science"}
