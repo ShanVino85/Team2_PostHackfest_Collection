@@ -1,0 +1,1 @@
+{"token":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJUZWFtMTRAZ21haWwuY29tIiwiaWF0IjoxNzIzMDY5ODMwLCJleHAiOjE3MjMwOTg2MzB9.TsKXdHXjaYVF6zA4wH2NOjr5ex-7lAhCdgMcR1VVkvTdI9hVtYPz898aENmEb_687Nt05bHbfzZNdIUk0vPLNA","type":"Bearer ","userId":7056,"loginUserEmail":"Team14@gmail.com","roles":["ROLE_ADMIN"]}

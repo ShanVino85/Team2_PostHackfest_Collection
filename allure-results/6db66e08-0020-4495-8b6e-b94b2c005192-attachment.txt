@@ -1,0 +1,1 @@
+{"token":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJyYWNrMUBnbWFpbC5jb20iLCJpYXQiOjE3MjMxMzI1MDQsImV4cCI6MTcyMzE2MTMwNH0.nAwGfx7ucWyNp_02ldSxUn7VDlO_MI-yE7mMzaA3Fq8oI-_DkmPlf7K--EEHtryW_uUy281l7GAkkpnyioRodQ","type":"Bearer ","userId":14100,"loginUserEmail":"rack1@gmail.com","roles":["ROLE_DIETICIAN"]}

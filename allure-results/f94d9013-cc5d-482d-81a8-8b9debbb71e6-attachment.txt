@@ -1,0 +1,1 @@
+level: log, messages: eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJmcmFnNUBnbWFpbC5jb20iLCJpYXQiOjE3MjMxMzI1MjcsImV4cCI6MTcyMzE2MTMyN30.0-n2q8hgMNQrzh1Axj1vn1KNbPmEa1xBkTtTwYEnJvQ4z4-sa9EMMkmYO6bmc6huXzvbqhikVf_zoG0trCU_sw

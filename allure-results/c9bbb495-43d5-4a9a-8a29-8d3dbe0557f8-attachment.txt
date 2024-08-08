@@ -1,0 +1,1 @@
+{"id":4108,"loginPassword":"Teach00","Firstname":"Teamtwo","Lastname":"Posthackfest","ContactNumber":"9902271234","DateOfBirth":"2022-11-21T18:14:08.570+00:00","Email":"ppost_hhackDie305@gmail.com","HospitalName":"Augustus","HospitalStreet":"Carter's Ave","HospitalCity":"Teamtwo","HospitalPincode":"345177","Education":"Health and Science"}

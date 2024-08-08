@@ -1,0 +1,1 @@
+{"timestamp":"2024-08-08T15:55:08.577+00:00","status":401,"error":"Unauthorized","path":"/dietician/morbidity/Average%20Glucose"}

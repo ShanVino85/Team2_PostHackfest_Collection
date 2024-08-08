@@ -1,0 +1,1 @@
+{"dHospitalName":"Dietician's hospital name is required!","firstName":"Dietician's firstname is required!","lastName":"Dietician's lastname is required!","dHospitalCityName":"Dietician's hospital city name is required!","dHospitalPinCode":"Dietician's hospital pincode is required!","dHospitalStreetName":"Dietician's hospital street name is required!"}
